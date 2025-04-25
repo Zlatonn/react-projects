@@ -1,0 +1,14 @@
+.start-rating {
+  text-align: center;
+  margin-block: 1rem;
+}
+
+.active {
+  color: #fff700;
+  cursor: pointer;
+}
+
+.inactive {
+  color: #000;
+  cursor: pointer;
+}

@@ -1,0 +1,7 @@
+.qr-container {
+  margin-block: 1rem;
+  place-self: center;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
